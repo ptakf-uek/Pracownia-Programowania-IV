@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// Object representing a class.
 public class Class {
     ArrayList<String> studentGroup = new ArrayList<>();
 

@@ -5,6 +5,7 @@ import java.io.IOException;
 
 public class LineWriter {
     public static void main(String[] args) {
+        // Procedure that appends the passed text as a new line to the text file.
         Scanner scan = new Scanner(System.in);
 
         // Scan the file location.
